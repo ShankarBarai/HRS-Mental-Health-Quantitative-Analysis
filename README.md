@@ -1,6 +1,5 @@
 # Social and Health Determinants of Depressive Symptoms in Older Adults
-## *This project started as my BSc final year project in 2021. Since then, I have updated the analysis to include the newest data (Wave 15) so the results stay current.* 
-## A Quantitative Analysis of the RAND HRS Wave 15 Dataset (N=14,637)
+### A Quantitative Analysis of the RAND HRS Wave 15 Dataset (N=14,637)
 
 ## 🧠 Research Motivation
 Mental health in aging populations is one of the most vital challenges for modern public health. I wanted to know which factors make older people mentally strong. By analyzing the **2020 (Wave 15)** data, I aimed to understand how certain variables like education level and physical health affect mental health during a pandemic. My goal is to find out how social structures affect healthy aging and this study is an initial step in achieving my goal.
