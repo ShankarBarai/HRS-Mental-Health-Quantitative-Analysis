@@ -1,4 +1,4 @@
-# Social and Health Determinants of Depressive Symptoms in Older Adults
+# Social and Health Determinants of Depressive Symptoms in Older Adults during COVID-19
 ### A Quantitative Analysis of the RAND HRS Wave 15 Dataset (N=14,637)
 
 ## 🧠 Research Motivation
