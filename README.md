@@ -5,15 +5,15 @@
 Mental health in aging populations is one of the most vital challenges for modern public health. I wanted to know which factors make older people mentally strong. By analyzing the **2020 (Wave 15)** data, I aimed to understand how certain variables like education level and physical health affect mental health during a pandemic. My goal is to find out how social structures affect healthy aging and this study is an initial step in achieving my goal.
 
 ## 🔍 Research Gap
-This project addresses a prticular **knowledge gap** according to recent literature. Despite the fact that the relationship between physical health and depression is widely recognized, the majority of current study relies on data collected before 2020. There is a significant gap in studying the effect of education during periods of sudden, worldwide isolation. By using the **Wave 15 (2020)** data, this project presents a timely investigation into whether typical social factors continued to be effective during the COVID-19 pandemic.
+This project addresses a prticular **knowledge gap** according to recent literature. Despite the fact that the relationship between physical health and depression is widely recognized, the majority of current studies rely on data collected before 2020. There is a significant gap in studying the effect of education during periods of sudden, worldwide isolation. By using the **Wave 15 (2020)** data, this project presents a timely investigation into whether typical social factors continued to be effective during the COVID-19 pandemic.
 
 ## 📌 Project Overview
-In this project, I investigated the socioeconomic and health-related predictors of mental distress in the aging U.S. population. I used a large-scale sample from the **University of Michigan’s Health and Retirement Study (HRS)**, I developed a multivariate OLS regression model to quantify the impact of education, physical health, and demographic factors on depression scores.
+In this project, I investigated the socioeconomic and health-related predictors of mental distress in the aging U.S. population. I used a large-scale sample from the **University of Michigan’s Health and Retirement Study (HRS)**, I developed a Multiple OLS regression model to quantify the impact of education, physical health, and demographic factors on depression scores.
 
 ## 🛠️ Technical Stack
 * **Language:** Python
 * **Libraries:** `Pandas`, `NumPy`, `Statsmodels`, `Matplotlib`, `Seaborn`.
-* **Model:** Multivariate Ordinary Least Squares (OLS) Regression.
+* **Model:** Multiple Ordinary Least Squares (OLS) Regression.
 * **Diagnostics:** Jarque-Bera Test for Normality.
 
 ## 📈 Key Research Findings (Statistical Summary)
